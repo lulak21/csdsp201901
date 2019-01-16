@@ -1,0 +1,17 @@
+C:\Projetos\CursoTestes\Vendas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projetos\CursoTestes\Vendas\bin\Debug\Vendas.exe
+C:\Projetos\CursoTestes\Vendas\bin\Debug\Vendas.pdb
+C:\Projetos\CursoTestes\Vendas\obj\x86\Debug\Vendas.exe
+C:\Projetos\CursoTestes\Vendas\obj\x86\Debug\Vendas.pdb
+C:\K21\CSD\MS\Dojo-Csharp-UnitTest\Vendas\obj\x86\Debug\Vendas.csprojResolveAssemblyReference.cache
+C:\K21\CSD\MS\Dojo-Csharp-UnitTest\Vendas\obj\x86\Debug\Vendas.exe
+C:\K21\CSD\MS\Dojo-Csharp-UnitTest\Vendas\obj\x86\Debug\Vendas.pdb
+C:\K21\CSD\_repoCursoTestes\DojosDotNet\UnitTests\Vendas\obj\x86\Debug\Vendas.pdb
+C:\K21\CSD\_repoCursoTestes\DojosDotNet\UnitTests\Vendas\bin\Debug\Vendas.pdb
+C:\K21\CSD\_repoCursoTestes\DojosDotNet\UnitTests\Vendas\bin\Debug\Vendas.dll
+C:\K21\CSD\_repoCursoTestes\DojosDotNet\UnitTests\Vendas\obj\x86\Debug\Vendas.dll
+C:\K21\CSD\20190114_SP\UnitTests\Vendas\bin\Debug\Vendas.dll
+C:\K21\CSD\20190114_SP\UnitTests\Vendas\bin\Debug\Vendas.pdb
+C:\K21\CSD\20190114_SP\UnitTests\Vendas\obj\x86\Debug\Vendas.csprojResolveAssemblyReference.cache
+C:\K21\CSD\20190114_SP\UnitTests\Vendas\obj\x86\Debug\Vendas.dll
+C:\K21\CSD\20190114_SP\UnitTests\Vendas\obj\x86\Debug\Vendas.pdb

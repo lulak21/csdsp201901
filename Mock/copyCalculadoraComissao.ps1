@@ -1,0 +1,2 @@
+cp ..\UnitTests\SistemaVendas\src\main\java\br\com\k21\CalculadoraComissao.java .\SistemaVendas\src\br\com\k21
+cp ..\UnitTests\SistemaVendas\src\test\java\br\com\k21\TestCalculadoraComissao.java .\SistemaVendas\testes\br\com\k21\
